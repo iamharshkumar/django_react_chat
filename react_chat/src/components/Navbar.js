@@ -12,7 +12,7 @@ export function Navbar() {
         <div className="max-w-5xl mx-auto flex flex-wrap justify-between items-center">
           <Link to="/" className="flex items-center">
             <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">
-              Conversa DJ
+              Django React Chat
             </span>
           </Link>
           <button
